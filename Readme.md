@@ -56,10 +56,10 @@ An Inventory Management System that’s all about keeping things *in order*.
 
 ## **When I'm not Coding**
 I'm likely,   
-Diving into sci-fi books or geeking out about space exploration.
-Binging tech podcasts to stay ahead of the curve.
-Plotting my next big project while sipping coffee that’s 90% too strong.
-Trying (and failing) to keep my plants alive—they deserve better, really.
+- Diving into sci-fi books or geeking out about space exploration.
+- Binging tech podcasts to stay ahead of the curve.
+- Plotting my next big project while sipping coffee that’s 90% too strong.
+- Trying (and failing) to keep my plants alive—they deserve better, really.
 
 ---
 
