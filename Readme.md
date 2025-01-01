@@ -8,11 +8,11 @@ I specialize in modern web development technologies including **JavaScript**, **
 
 ### 🔧 Technologies & Tools
 
-- **Frontend**: React, Next.js, Angular, HTML5, CSS3, TailwindCSS, JavaScript, TypeScript
-- **Backend**: Node.js, Express, Spring Boot, Flask, RESTful APIs, JWT, Authentication
-- **Databases**: MongoDB, MySQL, PostgreSQL, Firebase, SQL
-- **DevOps**: Docker, Kubernetes, GitHub Actions, CI/CD, AWS, Heroku, Netlify
-- **Others**: Git, GitHub, REST APIs, Firebase, Redux, Webpack
+- **Frontend**: React, HTML5, CSS3, TailwindCSS, JavaScript
+- **Backend**: Spring Boot, Flask, RESTful APIs
+- **Databases**: MongoDB, MySQL
+- **DevOps**:  Heroku, Netlify
+- **Others**: Git, GitHub, REST APIs
 
 ## Projects
 
