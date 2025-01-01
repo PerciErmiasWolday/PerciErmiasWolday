@@ -31,14 +31,10 @@ A web-based inventory management system built with Flask and JSON to manage 500+
 - **Technologies**: Flask, JSON, JavaScript
 - **Features**: Item management, real-time updates, sorting/search functionality
 
-## 📈 GitHub Stats
-
-![Perci's GitHub Stats](https://github-readme-stats.vercel.app/api?username=perciwolday&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
-
 ## Let's Connect
 
 - **[GitHub](https://github.com/perciwolday)**
 - **[LinkedIn](https://www.linkedin.com/in/perciwolday)**
-- **[Email](mailto:perci@example.com)**
+- **[Email](mailto:wolday1pe@alma.edu)**
 
 Feel free to reach out if you'd like to collaborate or chat about tech!
